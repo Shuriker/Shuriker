@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently studying at KHPI.
+- 🔭 I’m currently studying at KhPI.
 - 🌱 I’m currently learning Java and SQL.
 <!--
 **Shuriker/Shuriker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
